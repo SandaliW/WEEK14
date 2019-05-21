@@ -1,5 +1,5 @@
 # WEEK14
-#      ummary on Data Visualization packages in Python
+#      Summary on Data Visualization packages in Python
     Dynamic Data Presentation
 
 Useful Links:
